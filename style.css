@@ -1,0 +1,49 @@
+
+
+/*Navbar*/
+.inicio {
+  color: rgb(9, 196, 9);
+}
+.store {
+  color: coral;
+}
+.mac {
+  color: red;
+}
+.iPad {
+  color: blueviolet;
+}
+.iPhone {
+  color: deepskyblue;
+}
+/*Apple*/
+section h1 {
+  color: blue;
+}
+/*color subtitulos*/
+.subtitulos{
+  color: black;
+  font-weight: bold;
+  text-decoration: underline;
+}
+/*Asistencia tecnica*/
+div header h1 {
+  color: brown;
+  background-color: darkgray;
+}
+/*Ingrese sus datos*/
+div header h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  color: rgb(235, 4, 4);
+}
+/*Atencion al Cliente*/
+h3 {
+  color: rgba(108, 100, 218, 0.671);
+  text-align: center;
+}
+/*cambia el color al navbar al pasar*/
+a:hover {
+  text-decoration: none;
+  color: black;
+}
